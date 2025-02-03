@@ -1,0 +1,6 @@
+- host: turris
+  tcp:
+    22: SSH
+    53: DNS
+    80: HTTP
+    4443: HTTPS
